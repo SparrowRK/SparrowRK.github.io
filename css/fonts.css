@@ -22,3 +22,11 @@
     font-weight: 700;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Museo Sans Cyrl ';
+    src: local('MuseoSansCyrl-900'),
+        url('../fonts/MuseoSansCyrl-700.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
